@@ -193,3 +193,6 @@ api/.vscode
 
 .idea/
 .vscode
+/废弃的模型
+/requirements.txt
+/api/caibin/old
